@@ -2,11 +2,13 @@
 .container {
   display: flex;
   width: 100%;
+  min-height: 100vh;
 }
 .events {
   width: 60%;
   background-color: #323f4b;
   padding: 30px;
+  min-height: 100vh;
 }
 .cards-container {
   display: flex;
