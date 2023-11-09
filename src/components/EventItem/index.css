@@ -31,4 +31,7 @@
   .location {
     font-size: 12px;
   }
+  .li {
+    width: 80%;
+  }
 }
