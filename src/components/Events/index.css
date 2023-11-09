@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  width: 100%;
+}
+.events {
+  width: 60%;
+  background-color: #323f4b;
+  padding: 30px;
+}
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: white;
+  font-size: 3vw;
+}
+.cards-container {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
